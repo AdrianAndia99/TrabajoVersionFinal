@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/PantallaEspera/PantallaEspera.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Juego/PantallaJuego.unity
+    guid: afb22ec0c172c4f47b2abc0ae7ce4fa3
+  - enabled: 1
+    path: Assets/Scenes/Perdiste/PantallaPerdiste.unity
+    guid: a19b08db944f2ed419f7e38348623c95
+  - enabled: 1
+    path: Assets/Scenes/EsenaInicio/PantallaInicio.unity
+    guid: ee9ccc6d3fc79674d9bf24b0dfc9b0bf
+  - enabled: 1
+    path: Assets/Scenes/OpcionesXD/OpcionesXD.unity
+    guid: b3238ac64c0d1834bb1771b9f1b4dbc3
+  m_configObjects: {}
